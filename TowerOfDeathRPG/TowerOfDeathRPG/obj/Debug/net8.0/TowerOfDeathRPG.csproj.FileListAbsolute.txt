@@ -1,0 +1,14 @@
+C:\Users\Kap\OneDrive\C# learning\TowerOfDeathRPG\TowerOfDeathRPG\bin\Debug\net8.0\TowerOfDeathRPG.exe
+C:\Users\Kap\OneDrive\C# learning\TowerOfDeathRPG\TowerOfDeathRPG\bin\Debug\net8.0\TowerOfDeathRPG.deps.json
+C:\Users\Kap\OneDrive\C# learning\TowerOfDeathRPG\TowerOfDeathRPG\bin\Debug\net8.0\TowerOfDeathRPG.runtimeconfig.json
+C:\Users\Kap\OneDrive\C# learning\TowerOfDeathRPG\TowerOfDeathRPG\bin\Debug\net8.0\TowerOfDeathRPG.dll
+C:\Users\Kap\OneDrive\C# learning\TowerOfDeathRPG\TowerOfDeathRPG\bin\Debug\net8.0\TowerOfDeathRPG.pdb
+C:\Users\Kap\OneDrive\C# learning\TowerOfDeathRPG\TowerOfDeathRPG\obj\Debug\net8.0\TowerOfDeathRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kap\OneDrive\C# learning\TowerOfDeathRPG\TowerOfDeathRPG\obj\Debug\net8.0\TowerOfDeathRPG.AssemblyInfoInputs.cache
+C:\Users\Kap\OneDrive\C# learning\TowerOfDeathRPG\TowerOfDeathRPG\obj\Debug\net8.0\TowerOfDeathRPG.AssemblyInfo.cs
+C:\Users\Kap\OneDrive\C# learning\TowerOfDeathRPG\TowerOfDeathRPG\obj\Debug\net8.0\TowerOfDeathRPG.csproj.CoreCompileInputs.cache
+C:\Users\Kap\OneDrive\C# learning\TowerOfDeathRPG\TowerOfDeathRPG\obj\Debug\net8.0\TowerOfDeathRPG.dll
+C:\Users\Kap\OneDrive\C# learning\TowerOfDeathRPG\TowerOfDeathRPG\obj\Debug\net8.0\refint\TowerOfDeathRPG.dll
+C:\Users\Kap\OneDrive\C# learning\TowerOfDeathRPG\TowerOfDeathRPG\obj\Debug\net8.0\TowerOfDeathRPG.pdb
+C:\Users\Kap\OneDrive\C# learning\TowerOfDeathRPG\TowerOfDeathRPG\obj\Debug\net8.0\TowerOfDeathRPG.genruntimeconfig.cache
+C:\Users\Kap\OneDrive\C# learning\TowerOfDeathRPG\TowerOfDeathRPG\obj\Debug\net8.0\ref\TowerOfDeathRPG.dll
